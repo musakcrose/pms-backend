@@ -1,0 +1,4492 @@
+.account-name10 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  z-index: 2;
+}
+.account-name-frame {
+  width: 241px;
+  height: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-40xl);
+  box-sizing: border-box;
+}
+.material-symbolsdashboard-icon10 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 28px;
+}
+.dashboard10 {
+  flex: 1;
+  position: relative;
+}
+.material-symbolsdashboard-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs);
+  gap: 0 15px;
+}
+.icon-park-solidappointment10 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.appointment10 {
+  flex: 1;
+  position: relative;
+}
+.icon-park-solidappointment-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs);
+  gap: 0 15px;
+}
+.fluentform-new-28-filled-icon10 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.onsite-form10 {
+  flex: 1;
+  position: relative;
+}
+.fluentform-new-28-filled-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs);
+  gap: 0 15px;
+}
+.eos-iconscluster-management10 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.patient-management10 {
+  flex: 1;
+  position: relative;
+}
+.crowns {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  gap: 0 15px;
+}
+.majesticonsmoney-plus2 {
+  height: 34px;
+  width: 34px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 34px;
+}
+.billing2 {
+  flex: 1;
+  position: relative;
+}
+.complete-denture2,
+.teeth-whitening-veneers {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.teeth-whitening-veneers {
+  flex-direction: row;
+  gap: 0 13px;
+  color: var(--color-darkslateblue);
+}
+.complete-denture2 {
+  flex: 1;
+  flex-direction: column;
+  gap: 31px 0;
+}
+.material-symbolslogout-icon10 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.logout10 {
+  height: 35px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+}
+.gingivectomy {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: 0 15px;
+}
+.frame-set1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-cornflowerblue-300);
+  box-shadow: 0 10px 12px #daddb1;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.label-frame2 {
+  position: absolute;
+  top: 509px;
+  left: 27px;
+  background-color: var(--gray-white);
+  width: 281px;
+  height: 58px;
+  z-index: 2;
+}
+.mingcuteuser-4-fill-icon10 {
+  position: absolute;
+  top: 65px;
+  left: 114.5px;
+  width: 96px;
+  height: 96px;
+  overflow: hidden;
+  z-index: 2;
+}
+.button79 {
+  width: 308px;
+  height: 966px;
+  position: absolute;
+  margin: 0 !important;
+  top: -238px;
+  left: -42px;
+}
+.tooth-extraction2 {
+  width: 235px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 348px 0;
+  z-index: 3;
+  font-size: var(--font-size-xl);
+}
+.paragraph9,
+.staff-billing1 {
+  position: absolute;
+  font-family: var(--drop-menu-menu);
+}
+.paragraph9 {
+  top: 131px;
+  left: 0;
+  width: 281px;
+  height: 949px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-142xl) var(--padding-mini) var(--padding-smi);
+  box-sizing: border-box;
+  gap: 62px 0;
+  font-size: var(--font-size-mini);
+  color: var(--gray-white);
+}
+.staff-billing1 {
+  top: 181px;
+  left: 320px;
+  font-weight: 500;
+  color: var(--color-darkslateblue);
+  display: inline-block;
+  width: 283px;
+  height: 33px;
+}
+.paragraph-child {
+  height: 100%;
+  width: 1947px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -27px;
+  bottom: 0;
+  background-color: var(--color-cornflowerblue-300);
+  box-shadow: 0 1px 10px 2px #000;
+}
+.frame-child30 {
+  height: 77px;
+  width: 243px;
+  position: relative;
+  border-radius: var(--br-161xl);
+  background-color: var(--gray-white);
+  display: none;
+}
+.image-3-icon12 {
+  height: 66.2px;
+  width: 64.2px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.dental-clinic12,
+.sweet-tooth12 {
+  position: absolute;
+  left: 3.1px;
+  display: inline-block;
+  white-space: nowrap;
+  z-index: 1;
+}
+.sweet-tooth12 {
+  top: 0;
+  font-family: var(--font-vujahday-script);
+  width: 97.8px;
+  height: 28.7px;
+}
+.dental-clinic12 {
+  top: 19.1px;
+  font-size: var(--font-size-sm-5);
+  width: 101.6px;
+  height: 20.6px;
+}
+.your-smile-is12 {
+  position: relative;
+  font-weight: 300;
+  white-space: nowrap;
+  z-index: 1;
+}
+.your-smile-is-our-concern-wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs-5);
+}
+.text-field19 {
+  align-self: stretch;
+  height: 0;
+  position: relative;
+  border-top: 0.4px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  z-index: 1;
+  margin-top: -0.4px;
+}
+.frame-parent52 {
+  position: absolute;
+  top: 36.7px;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-4xs-3);
+}
+.instance {
+  align-self: stretch;
+  height: 49.3px;
+  position: relative;
+}
+.label30,
+.rectangle-parent18 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.label30 {
+  flex: 1;
+  flex-direction: column;
+  padding: 4.899999999999636px 0 0;
+}
+.rectangle-parent18 {
+  height: 77.2px;
+  width: 243px;
+  border-radius: var(--br-161xl);
+  background-color: var(--gray-white);
+  flex-direction: row;
+  padding: 11.100000000000364px var(--padding-11xl) 11.899999999999636px
+    26.399999999999636px;
+  box-sizing: border-box;
+  gap: var(--gap-smi-4);
+  z-index: 1;
+}
+.sunday-february-xx10 {
+  margin: 0;
+  align-self: stretch;
+  height: 54px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+.juan7 {
+  width: 548px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23.200000000000728px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  color: var(--gray-white);
+}
+.paragraph10,
+.time-000000-am10 {
+  position: absolute;
+  font-family: var(--drop-menu-menu);
+}
+.paragraph10 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-4xl) 34.79999999999927px;
+  box-sizing: border-box;
+  gap: 0 743px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl-7);
+  color: var(--color-steelblue-200);
+}
+.time-000000-am10 {
+  top: 56.2px;
+  left: 1605px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  color: var(--gray-white);
+  width: 366px;
+  height: 54px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.staff-account-billing-6-child {
+  position: absolute;
+  top: 271px;
+  left: 741px;
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  width: 576px;
+  height: 318px;
+  display: none;
+}
+.appointment-number1,
+.blank-line226 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line227 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.i-am-a-container6 {
+  position: absolute;
+  height: 100%;
+  width: 93.75%;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+}
+.paragraph11 {
+  align-self: stretch;
+  height: 30px;
+  position: relative;
+}
+.blank-line228,
+.patient-id1 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line229 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.i-am-a-container7 {
+  position: absolute;
+  height: 100%;
+  width: 84.91%;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+}
+.paragraph12 {
+  width: 212px;
+  height: 30px;
+  position: relative;
+}
+.blank-line230,
+.patient-full-name1 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line231 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.i-am-a-container8 {
+  position: absolute;
+  height: 100%;
+  width: 85.9%;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+}
+.paragraph13 {
+  width: 239px;
+  height: 30px;
+  position: relative;
+}
+.blank-line232,
+.overall-price1 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line233 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.i-am-a-container9 {
+  position: absolute;
+  height: 100%;
+  width: 84.91%;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+}
+.paragraph14 {
+  width: 212px;
+  height: 30px;
+  position: relative;
+}
+.paragraph-group {
+  position: absolute;
+  top: 285px;
+  left: 762px;
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 42px 0;
+  color: var(--dark-medium);
+}
+.frame-flexible-denture-fixed-b-child {
+  height: 318px;
+  width: 391px;
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  border: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+}
+.denture-types-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: var(--br-7xs);
+}
+.oral-prophylaxis2 {
+  position: absolute;
+  margin: 0 !important;
+  right: -78.2px;
+  bottom: 9.1px;
+  font-weight: 500;
+}
+.frame-brace-self-ligating-reta {
+  width: 112.8px;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8.600000000002183px 0 8.599999999998545px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 0 10px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.complete-denture-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: var(--br-7xs);
+}
+.tooth-extraction3 {
+  position: absolute;
+  margin: 0 !important;
+  top: 9.1px;
+  right: -79px;
+  font-weight: 500;
+}
+.labeled-frames,
+.oral-prophylaxis-tooth-extract {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.oral-prophylaxis-tooth-extract {
+  align-self: stretch;
+  background-color: var(--gray-white);
+  flex-direction: row;
+  padding: 8.599999999998545px 0 8.600000000002183px;
+  position: relative;
+  gap: 0 10px;
+  white-space: nowrap;
+  z-index: 2;
+}
+.labeled-frames {
+  width: 114px;
+  flex-direction: column;
+  padding: 33.70000000000073px 0 0;
+  box-sizing: border-box;
+  margin-left: -113.3px;
+}
+.ceramic-brace-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: var(--br-7xs);
+}
+.complete-denture3 {
+  position: absolute;
+  margin: 0 !important;
+  top: 9.1px;
+  right: -86px;
+  font-weight: 500;
+}
+.brace-self-ligating,
+.teeth-whitening-veneers1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.teeth-whitening-veneers1 {
+  align-self: stretch;
+  background-color: var(--gray-white);
+  flex-direction: row;
+  padding: 8.599999999998545px 0 8.600000000002183px;
+  position: relative;
+  gap: 0 10px;
+  white-space: nowrap;
+  z-index: 3;
+}
+.brace-self-ligating {
+  width: 124px;
+  flex-direction: column;
+  padding: 67.70000000000073px 0 0;
+  box-sizing: border-box;
+  margin-left: -113.3px;
+}
+.frame-child31,
+.frame-flexible-denture-fixed-b {
+  position: absolute;
+  border: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+}
+.frame-flexible-denture-fixed-b {
+  top: 269px;
+  left: 318px;
+  background-color: var(--color-whitesmoke-200);
+  width: 391px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 25.299999999999272px 11.799999999999272px 182.79999999999927px;
+  max-width: 100%;
+  text-align: center;
+  color: var(--color-darkslateblue);
+}
+.frame-child31 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 100%;
+  height: 100%;
+}
+.frame-child32 {
+  position: absolute;
+  top: 11.8px;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 10px;
+  height: 130px;
+}
+.rectangle-parent19 {
+  position: absolute;
+  top: 271px;
+  left: 699px;
+  width: 10px;
+  height: 157px;
+  display: none;
+}
+.blank-line234,
+.services-list3 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line235 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.services-list2 {
+  position: absolute;
+  height: 2.78%;
+  width: 64.5%;
+  top: 21.94%;
+  left: 16.67%;
+  line-height: 24px;
+  display: inline-block;
+}
+.blank-line236,
+.patient-info3 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line237 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.patient-info2 {
+  position: absolute;
+  height: 2.78%;
+  width: 64.5%;
+  top: 21.94%;
+  left: 38.59%;
+  line-height: 24px;
+  display: inline-block;
+  z-index: 1;
+}
+.blank-line238,
+.payments3 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line239 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.payments2 {
+  position: absolute;
+  height: 2.78%;
+  width: 6.2%;
+  top: 21.94%;
+  left: 70.26%;
+  line-height: 24px;
+  display: none;
+}
+.blank-line240,
+.subtotal3 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line241 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.subtotal2 {
+  position: absolute;
+  top: 295px;
+  left: 1355px;
+  line-height: 24px;
+  display: none;
+  width: 113px;
+  height: 30px;
+}
+.blank-line242,
+.payment3 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line243 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.payment2 {
+  position: absolute;
+  top: 341px;
+  left: 1355px;
+  line-height: 24px;
+  display: none;
+  width: 113px;
+  height: 30px;
+}
+.balance3,
+.blank-line244 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line245 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.balance2 {
+  position: absolute;
+  top: 387px;
+  left: 1355px;
+  line-height: 24px;
+  display: none;
+  width: 113px;
+  height: 30px;
+}
+.blank-line246,
+.discount-id3 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line247 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.discount-id2 {
+  position: absolute;
+  top: 462px;
+  left: 1355px;
+  line-height: 24px;
+  display: none;
+  width: 127px;
+  height: 30px;
+}
+.blank-line248,
+.method3 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line249 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.material-symbolsperson1,
+.method2 {
+  position: absolute;
+  height: 30px;
+  display: none;
+}
+.method2 {
+  top: 553px;
+  left: 1358px;
+  line-height: 24px;
+  width: 113px;
+}
+.material-symbolsperson1 {
+  top: 620px;
+  left: 318px;
+  width: 30px;
+  overflow: hidden;
+}
+.queued-list1,
+.staff-account-billing-6-item {
+  position: absolute;
+  top: 607px;
+  left: 1452px;
+  width: 432px;
+  height: 41px;
+  display: none;
+}
+.queued-list1 {
+  top: 611px;
+  left: 318px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--drop-menu-menu);
+  color: var(--color-darkslateblue);
+  display: inline-block;
+  width: 294px;
+  height: 33px;
+  z-index: 1;
+}
+.paragraph-label {
+  margin: 0;
+  position: absolute;
+  top: 617.5px;
+  left: 787px;
+  width: 20px;
+  height: 20px;
+}
+.total-price1 {
+  position: absolute;
+  top: 611px;
+  left: 1202px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--drop-menu-menu);
+  color: var(--color-darkslateblue);
+  display: none;
+  width: 294px;
+  height: 33px;
+}
+.group-frame1 {
+  position: absolute;
+  top: 607px;
+  left: 1452px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+  width: 433px;
+  height: 42px;
+  z-index: 2;
+}
+.frame-oral-prophylaxis-tooth-e {
+  position: absolute;
+  top: 648px;
+  left: 318px;
+  background-color: var(--color-cornflowerblue-300);
+  width: 1566px;
+  height: 5px;
+  z-index: 3;
+}
+.php-00001 {
+  position: absolute;
+  top: 618px;
+  left: 1468px;
+  line-height: 24px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1238.4px;
+  height: 30px;
+  z-index: 4;
+}
+.text21 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+  text-align: center;
+}
+.cell183,
+.content182 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content182 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell183 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lavender-100);
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.frame-dentures {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+  text-align: center;
+}
+.cell184,
+.content183 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content183 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell184 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lavender-100);
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.frame-oral-prophylaxis {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+  text-align: center;
+}
+.cell185,
+.content184 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content184 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell185 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lavender-100);
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.group-root-canals {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+  text-align: center;
+}
+.cell186,
+.content185 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content185 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell186 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lavender-100);
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.frame-flexible-denture {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+  text-align: center;
+}
+.cell187,
+.content186 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content186 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell187 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lavender-100);
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.frame-teeth-whitening {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+  text-align: center;
+}
+.cell188,
+.content187 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content187 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell188 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lavender-100);
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.button-schedule-appointment {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+  text-align: center;
+}
+.content188 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell189,
+.content188,
+.row38 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cell189 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lavender-100);
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.row38 {
+  align-self: stretch;
+  background-color: var(--color-gray-500);
+  overflow-x: auto;
+  flex-direction: row;
+}
+.sample153 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell190,
+.content189 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content189 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell190 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample154 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell191,
+.content190 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content190 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell191 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample155 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell192,
+.content191 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content191 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell192 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample156 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell193,
+.content192 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content192 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell193 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample157 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell194,
+.content193 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content193 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell194 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample158 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell195,
+.content194 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content194 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell195 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample159 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.content195 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell196,
+.content195,
+.row39 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cell196 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.row39 {
+  align-self: stretch;
+  background-color: var(--color-silver-500);
+  overflow-x: auto;
+  flex-direction: row;
+}
+.sample160 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell197,
+.content196 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content196 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell197 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample161 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell198,
+.content197 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content197 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell198 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample162 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell199,
+.content198 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content198 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell199 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample163 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell200,
+.content199 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content199 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell200 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample164 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell201,
+.content200 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content200 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell201 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample165 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell202,
+.content201 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content201 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell202 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample166 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell203,
+.content202,
+.row40 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content202 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell203,
+.row40 {
+  background-color: var(--color-gray-500);
+}
+.cell203 {
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.row40 {
+  align-self: stretch;
+  overflow-x: auto;
+  flex-direction: row;
+}
+.sample167 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell204,
+.content203 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content203 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell204 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample168 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell205,
+.content204 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content204 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell205 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample169 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell206,
+.content205 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content205 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell206 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample170 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell207,
+.content206 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content206 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell207 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample171 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell208,
+.content207 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content207 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell208 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample172 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell209,
+.content208 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content208 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell209 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample173 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell210,
+.content209,
+.row41 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content209 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell210,
+.row41 {
+  background-color: var(--color-gray-500);
+}
+.cell210 {
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.row41 {
+  align-self: stretch;
+  overflow-x: auto;
+  flex-direction: row;
+}
+.sample174 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell211,
+.content210 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content210 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell211 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample175 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell212,
+.content211 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content211 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell212 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample176 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell213,
+.content212 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content212 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell213 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample177 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell214,
+.content213 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content213 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell214 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample178 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell215,
+.content214 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content214 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell215 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample179 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell216,
+.content215 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content215 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell216 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample180 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell217,
+.content216,
+.row42 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content216 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell217,
+.row42 {
+  background-color: var(--color-gray-500);
+}
+.cell217 {
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.row42 {
+  align-self: stretch;
+  overflow-x: auto;
+  flex-direction: row;
+}
+.sample181 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell218,
+.content217 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content217 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell218 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample182 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell219,
+.content218 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content218 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell219 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample183 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell220,
+.content219 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content219 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell220 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample184 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell221,
+.content220 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content220 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell221 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample185 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell222,
+.content221 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content221 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell222 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample186 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell223,
+.content222 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content222 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell223 {
+  width: 186.4px;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.sample187 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell224,
+.content223,
+.row43 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content223 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell224,
+.row43 {
+  background-color: var(--color-gray-500);
+}
+.cell224 {
+  width: 186.4px;
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.row43 {
+  align-self: stretch;
+  overflow-x: auto;
+  flex-direction: row;
+}
+.sample188 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell225,
+.content224 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content224 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell225 {
+  height: 1px;
+  flex: 1;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+  min-width: 183px;
+  max-width: 186px;
+}
+.sample189 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell226,
+.content225 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content225 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell226 {
+  flex: 1;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+  min-width: 183px;
+  max-width: 186px;
+}
+.sample190 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell227,
+.content226 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content226 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell227 {
+  flex: 1;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+  min-width: 183px;
+  max-width: 186px;
+}
+.sample191 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell228,
+.content227 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content227 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell228 {
+  flex: 1;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+  min-width: 183px;
+  max-width: 186px;
+}
+.sample192 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell229,
+.content228 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content228 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell229 {
+  flex: 1;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+  min-width: 183px;
+  max-width: 186px;
+}
+.sample193 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell230,
+.content229 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content229 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell230 {
+  flex: 1;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+  min-width: 183px;
+  max-width: 186px;
+}
+.sample194 {
+  height: 41px;
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.cell231,
+.content230 {
+  justify-content: flex-start;
+}
+.content230 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-3xs) var(--padding-xs);
+}
+.cell231 {
+  flex: 1;
+  background-color: var(--color-gray-500);
+  border-right: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  flex-direction: column;
+  min-width: 183px;
+  max-width: 186px;
+}
+.cell231,
+.row44,
+.table8,
+.transaction2 {
+  display: flex;
+  align-items: flex-start;
+}
+.row44 {
+  align-self: stretch;
+  background-color: var(--color-gray-500);
+  overflow: hidden;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 20px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-inter);
+}
+.table8,
+.transaction2 {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.table8 {
+  align-self: stretch;
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-white);
+  border: 1px solid var(--color-silver-500);
+  overflow: hidden;
+}
+.transaction2 {
+  position: absolute;
+  top: 677px;
+  left: 306px;
+  width: 1305px;
+  max-width: 100%;
+  color: var(--color-darkslateblue);
+}
+.frame-child33 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.frame-child34 {
+  position: absolute;
+  top: 11.8px;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 10px;
+  height: 130px;
+}
+.rectangle-parent20 {
+  position: absolute;
+  top: 721px;
+  left: 1599px;
+  width: 10px;
+  height: 157px;
+  display: none;
+}
+.button80 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--drop-menu-menu);
+  color: var(--gray-white);
+  text-align: center;
+}
+.simple-button82 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-lgi-5) var(--padding-9xl);
+  background-color: var(--color-darkblue);
+  position: absolute;
+  top: 703px;
+  left: 1646px;
+  border-radius: var(--br-6xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 226px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.simple-button82:hover {
+  background-color: var(--color-mediumslateblue);
+}
+.button81 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--drop-menu-menu);
+  color: var(--gray-white);
+  text-align: center;
+}
+.simple-button83 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-lgi-5) var(--padding-10xl-5);
+  background-color: var(--pms-color);
+  position: absolute;
+  top: 790px;
+  left: 1646px;
+  border-radius: var(--br-6xl);
+  background: linear-gradient(#2e356d, #2e356d), linear-gradient(#039, #039),
+    linear-gradient(#fbfbfe, #fbfbfe), linear-gradient(#4d73bf, #4d73bf),
+    linear-gradient(#d1edff, #d1edff), #4c73bf;
+  width: 226px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.simple-button83:hover,
+.simple-button84:hover {
+  background-color: var(--color-cornflowerblue-200);
+}
+.button82 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--drop-menu-menu);
+  color: var(--gray-white);
+  text-align: center;
+}
+.simple-button84 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-lgi-5) var(--padding-8xl);
+  background-color: var(--pms-color);
+  position: absolute;
+  top: 871px;
+  left: 1646px;
+  border-radius: var(--br-6xl);
+  background: linear-gradient(#2e356d, #2e356d), linear-gradient(#039, #039),
+    linear-gradient(#fbfbfe, #fbfbfe), linear-gradient(#4d73bf, #4d73bf),
+    linear-gradient(#d1edff, #d1edff), #4c73bf;
+  width: 226px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.button83 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 130%;
+  font-weight: 600;
+  font-family: var(--drop-menu-menu);
+  color: var(--gray-white);
+  text-align: center;
+}
+.simple-button85,
+.text-field-child6 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.simple-button85 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-lgi-5) var(--padding-53xl-5);
+  background-color: var(--color-darkkhaki);
+  top: 958px;
+  left: 1646px;
+  border-radius: var(--br-6xl);
+  width: 226px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.simple-button85:hover {
+  background-color: var(--color-olive);
+}
+.text-field-child6 {
+  height: 100%;
+  width: 100%;
+  top: -1.22%;
+  right: -0.09%;
+  bottom: -1.22%;
+  left: -0.09%;
+  border-radius: var(--br-3xs);
+  background-color: var(--line-enable);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-silver-100);
+}
+.blank-line250,
+.xxxxxxxxxxxxx1 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line251 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.xxxxxxxxxxxxx {
+  position: absolute;
+  height: 73.17%;
+  width: 34.16%;
+  top: 19.51%;
+  left: 1.52%;
+  line-height: 24px;
+  display: inline-block;
+}
+.text-field20 {
+  position: absolute;
+  top: 311px;
+  left: 762px;
+  width: 527px;
+  height: 41px;
+  display: none;
+  color: var(--dark-medium);
+}
+.text-field-child7 {
+  height: 42px;
+  width: 409px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--gray-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.php-100 {
+  width: 133px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: var(--pms-color);
+  height: 30px;
+  position: relative;
+  line-height: 24px;
+  color: var(--color-darkslategray-200);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  z-index: 1;
+}
+.text-field-child8,
+.text-field21 {
+  border-radius: var(--br-3xs);
+  background-color: var(--gray-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.text-field21 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-2xs) var(--padding-8xs);
+}
+.text-field-child8 {
+  height: 42px;
+  width: 409px;
+  position: relative;
+  display: none;
+}
+.php-1001 {
+  width: 133px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: var(--pms-color);
+  height: 30px;
+  position: relative;
+  line-height: 24px;
+  color: var(--color-darkslategray-200);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  z-index: 1;
+}
+.text-field-child9,
+.text-field22 {
+  border-radius: var(--br-3xs);
+  background-color: var(--gray-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.text-field22 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-2xs) var(--padding-10xs);
+}
+.text-field-child9 {
+  height: 42px;
+  width: 409px;
+  position: relative;
+  display: none;
+}
+.php-0 {
+  width: 133px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: var(--pms-color);
+  height: 30px;
+  position: relative;
+  line-height: 24px;
+  color: var(--color-darkslategray-200);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  z-index: 1;
+}
+.text-field-parent,
+.text-field23 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.text-field23 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-3xs);
+  background-color: var(--gray-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  flex-direction: row;
+  padding: var(--padding-2xs) var(--padding-smi) 0;
+}
+.text-field-parent {
+  position: absolute;
+  top: 237px;
+  left: 1482px;
+  width: 408px;
+  height: 185px;
+  flex-direction: column;
+  padding: var(--padding-29xl) 0 0;
+  gap: 7px 0;
+  z-index: 3;
+}
+.text-field-child10 {
+  height: 42px;
+  width: 432px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.blank-line252,
+.invoice3 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line253 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.invoice2 {
+  height: 30px;
+  width: 119.4px;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.blank-line254,
+.xxxxxxxxxxxxxxxxxxxxxx3 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line255 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.xxxxxxxxxxxxxxxxxxxxxx2 {
+  height: 30px;
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  color: var(--color-orangered);
+  display: inline-block;
+  min-width: 200px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.text-field24 {
+  position: absolute;
+  top: 226px;
+  left: 1468px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 432px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) 0 var(--padding-11xs) var(--padding-3xs-5);
+  gap: 0 4.2px;
+  max-width: 100%;
+  z-index: 4;
+}
+.xxxxxxxxxxxxxxxxxxx {
+  position: absolute;
+  top: 473px;
+  left: 1496px;
+  line-height: 24px;
+  display: none;
+  width: 260px;
+  height: 30px;
+}
+.frame-group-icon {
+  position: absolute;
+  top: 436px;
+  left: 1508px;
+  border-radius: var(--br-7xs);
+  width: 18px;
+  height: 18px;
+  z-index: 1;
+}
+.text-field-child11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -1.22%;
+  right: -0.09%;
+  bottom: -1.22%;
+  left: -0.09%;
+  border-radius: var(--br-3xs);
+  background-color: var(--line-enable);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--line-enable);
+  box-sizing: border-box;
+}
+.blank-line256,
+.p0013 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line257 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.p0012 {
+  position: absolute;
+  height: 73.17%;
+  width: 34.16%;
+  top: 34.15%;
+  left: 1.52%;
+  line-height: 24px;
+  display: inline-block;
+}
+.text-field25 {
+  position: absolute;
+  top: 383px;
+  left: 762px;
+  width: 527px;
+  height: 41px;
+  display: none;
+  color: var(--dark-medium);
+}
+.text-field-child12 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -1.22%;
+  right: -0.09%;
+  bottom: -1.22%;
+  left: -0.09%;
+  border-radius: var(--br-3xs);
+  background-color: var(--line-enable);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+}
+.juan-dela-cruz26 {
+  position: absolute;
+  height: 73.17%;
+  width: 34.16%;
+  top: 26.83%;
+  left: 1.33%;
+  line-height: 24px;
+  display: inline-block;
+}
+.text-field26 {
+  position: absolute;
+  top: 455px;
+  left: 762px;
+  width: 527px;
+  height: 41px;
+  display: none;
+  color: var(--dark-medium);
+}
+.text-field-child13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -1.22%;
+  right: -0.09%;
+  bottom: -1.22%;
+  left: -0.09%;
+  border-radius: var(--br-3xs);
+  background-color: var(--line-enable);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+}
+.php-00002 {
+  position: absolute;
+  height: 73.17%;
+  width: 34.16%;
+  top: 26.83%;
+  left: 1.14%;
+  line-height: 24px;
+  display: inline-block;
+}
+.text-field27 {
+  position: absolute;
+  top: 527px;
+  left: 762px;
+  width: 527px;
+  height: 41px;
+  display: none;
+  color: var(--dark-medium);
+}
+.mdi-radio-button-disabled-unse-icon {
+  position: absolute;
+  top: 509px;
+  left: 1511px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  display: none;
+}
+.pwd1 {
+  position: absolute;
+  top: 511.5px;
+  left: 1546px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-slategray-200);
+  text-align: center;
+  display: none;
+}
+.mdi-radio-button-hover-icon {
+  position: absolute;
+  top: 509px;
+  left: 1680px;
+  border-radius: var(--br-10xs);
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  display: none;
+}
+.frame-child35,
+.oral-prophylaxis3 {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child35 {
+  height: 86px;
+  background-color: var(--color-aliceblue-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.oral-prophylaxis3 {
+  height: 35px;
+  background-color: var(--color-lavender-100);
+  z-index: 1;
+}
+.down-payment {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 34.41px;
+  font-weight: 500;
+  z-index: 1;
+}
+.tooth-extraction4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xl);
+}
+.full-payment,
+.rectangle-parent21 {
+  position: absolute;
+  font-size: var(--font-size-3xl-9);
+  font-family: var(--drop-menu-menu);
+  color: var(--color-darkslateblue);
+}
+.rectangle-parent21 {
+  top: 575px;
+  left: 1487px;
+  background-color: var(--color-aliceblue-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 402px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) 0 0 var(--padding-10xs);
+  z-index: 5;
+}
+.full-payment {
+  top: 589px;
+  left: 1521px;
+  letter-spacing: 0.03em;
+  line-height: 34.41px;
+  font-weight: 500;
+  display: none;
+}
+.flexible-denture-child {
+  width: 550px;
+  height: 318px;
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  border: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.discount-senior-citizen1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.fixed-bridge,
+.retainers {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.fixed-bridge {
+  width: 369px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg);
+  flex-shrink: 0;
+}
+.retainers {
+  width: 430px;
+  height: 42px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--gray-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  z-index: 1;
+}
+.senior-citizen1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.fixed-bridge1 {
+  width: 230px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-33xl);
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.iconsregularplus40 {
+  height: 38.2px;
+  width: 38.2px;
+  position: relative;
+  display: none;
+}
+.menu-label15 {
+  height: 35px;
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.menu-label14,
+.odontectomy {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.odontectomy {
+  flex-direction: column;
+  padding: 1.5999999999985448px 0 0;
+  font-size: var(--drop-menu-menu-size);
+  color: var(--color-darkslateblue);
+}
+.label181 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 34.41px;
+  font-weight: 500;
+}
+.label180 {
+  height: 34.4px;
+  width: 86px;
+  position: relative;
+  display: none;
+}
+.label281 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 34.41px;
+  font-weight: 500;
+}
+.label280 {
+  height: 34.4px;
+  width: 93.7px;
+  position: relative;
+  display: none;
+}
+.label381 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 34.41px;
+  font-weight: 500;
+}
+.label380 {
+  height: 34.4px;
+  width: 93.7px;
+  position: relative;
+  display: none;
+}
+.label481 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 34.41px;
+  font-weight: 500;
+}
+.label480 {
+  height: 34.4px;
+  width: 95.6px;
+  position: relative;
+  display: none;
+}
+.label579 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 34.41px;
+  font-weight: 500;
+}
+.label578 {
+  height: 34.4px;
+  width: 93.7px;
+  position: relative;
+  display: none;
+}
+.iconsregularchevron-down-s40 {
+  height: 38.2px;
+  width: 38.2px;
+  position: relative;
+}
+.header7 {
+  flex: 1;
+  border-radius: 15.29px;
+  background-color: var(--gray-white);
+  border: 2.5px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0.4000000000014552px var(--padding-20xl) 0.3999999999978172px
+    34.399999999999636px;
+  min-height: 44px;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  z-index: 6;
+}
+.flexible-denture,
+.teeth-whitening-veneers2 {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.teeth-whitening-veneers2 {
+  width: 406px;
+  height: 39px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-11xs);
+  text-align: left;
+  font-size: var(--font-size-3xl-9);
+  color: var(--black);
+  font-family: var(--drop-menu-menu);
+}
+.flexible-denture {
+  position: absolute;
+  top: 271px;
+  left: 1349px;
+  background-color: var(--color-whitesmoke-200);
+  border: 1px solid var(--color-darkslateblue);
+  width: 550px;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-145xl) var(--padding-5xs) var(--padding-3xs);
+  gap: 8.67px 0;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-slategray-200);
+}
+.juan8 {
+  position: relative;
+  line-height: 24px;
+  display: none;
+  font-weight: 300;
+  z-index: 0;
+}
+.frame-rectangle-group {
+  border: 1px solid var(--color-lightsteelblue);
+  outline: 0;
+  background-color: var(--color-silver-400);
+  width: 454px;
+  height: 42px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 97px;
+  left: 173px;
+  border-radius: var(--br-3xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.i-am-a {
+  height: 36px;
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+}
+.frame-child36,
+.paragraph15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.paragraph15 {
+  width: 148px;
+  margin: 0 !important;
+  position: absolute;
+  right: 540px;
+  bottom: 155px;
+  padding: 0 var(--padding-4xs) 0 0;
+  z-index: 2;
+  color: var(--dark-medium);
+}
+.frame-child36 {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-lavender-100);
+  align-self: stretch;
+  height: 79px;
+  padding: var(--padding-9xl) var(--padding-9xl) var(--padding-2xl);
+  font-family: var(--font-inter);
+  font-weight: 600;
+  font-size: var(--font-size-5xl);
+  color: var(--secondary-dark-color);
+  min-width: 250px;
+}
+.first-name,
+.p23,
+.patient-id2 {
+  margin-block-start: 0;
+  margin-block-end: 32px;
+}
+.blank-line258 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.i-am-a-container10 {
+  height: 89px;
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+}
+.paragraph-wrapper,
+.paragraph17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.paragraph17 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-5xs) 0 0;
+}
+.paragraph-wrapper {
+  width: 135px;
+  flex-direction: column;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.brace-self-ligating-retainers {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -1px;
+  bottom: -1px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+}
+.juan9 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 300;
+  z-index: 1;
+}
+.text-field28 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-35xl) var(--padding-5xs);
+  position: relative;
+}
+.fixed-bridge2 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -1px;
+  bottom: -1px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+}
+.juan10 {
+  width: 55px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: var(--pms-color);
+  height: 24px;
+  position: relative;
+  line-height: 24px;
+  color: var(--color-darkslategray-100);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  z-index: 1;
+}
+.text-field29 {
+  width: 420px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) 19.600000000000364px var(--padding-5xs);
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.blank-line259,
+.last-name1,
+.p24 {
+  margin-block-start: 0;
+  margin-block-end: 32px;
+}
+.blank-line260 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.last-name {
+  height: 89px;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  z-index: 2;
+}
+.juan-juan {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -1px;
+  bottom: -1px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+}
+.juan11 {
+  width: 113px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: var(--pms-color);
+  height: 24px;
+  position: relative;
+  line-height: 24px;
+  color: var(--color-darkslategray-100);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  z-index: 1;
+}
+.retainers1,
+.text-field30 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-field30 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-4xs) var(--padding-6xl-5) var(--padding-5xs);
+  position: relative;
+}
+.retainers1 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-28xl) 0 0;
+  box-sizing: border-box;
+  min-width: 355px;
+  max-width: 100%;
+}
+.brace,
+.removable-denture {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.brace {
+  width: 682px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 9.4px;
+}
+.removable-denture {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  margin-top: -33px;
+  color: var(--dark-medium);
+}
+.frame-parent53,
+.oral-prophylaxis-tooth-extract1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.oral-prophylaxis-tooth-extract1 {
+  flex: 1;
+  flex-direction: column;
+  min-width: 779px;
+  color: var(--color-darkslategray-100);
+}
+.frame-parent53 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0 13px;
+}
+.blank-line261,
+.services-choosen {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line262 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.i-am-a-container11 {
+  height: 30px;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+}
+.paragraph-container,
+.paragraph18 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 0;
+}
+.paragraph-container {
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.prosthesis-alternatives-child {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  border-radius: var(--br-7xs);
+}
+.prosthesis-alternatives {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.oral-prophylaxis4 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.complete-denture-frame1 {
+  width: 184px;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.frame-container2 {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.tooth-restoration {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.frame-container-parent {
+  align-self: stretch;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.frame-icon {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  border-radius: var(--br-7xs);
+}
+.complete-denture-frame-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.tooth-extraction5 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.complete-denture-frame2 {
+  width: 186px;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.frame-child37 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  border-radius: var(--br-7xs);
+}
+.complete-denture-frame-child {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.complete-denture4 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.complete-denture-frame3 {
+  align-self: stretch;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.oral-prophylaxis-frame,
+.tooth-extraction-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tooth-extraction-frame {
+  align-self: stretch;
+  gap: 20px 0;
+}
+.oral-prophylaxis-frame {
+  width: 203px;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  min-width: 203px;
+}
+.rectangle-frame3 {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.removable-denture1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.tooth-restoration1 {
+  width: 216px;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.brace-self-ligating-frames {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.flexible-denture1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.fixed-bridge-crowns-frame {
+  width: 184px;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.frame-input21 {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.fixed-bridge3 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.fixed-bridge-crowns-frame1 {
+  align-self: stretch;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.frame-input22 {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.brace-metal {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.fixed-bridge-crowns-frame2 {
+  width: 157px;
+  background-color: var(--gray-white);
+  flex-direction: row;
+  gap: 0 10px;
+}
+.fixed-bridge-crowns-frame2,
+.flexible-denture-frame,
+.frame-parent55,
+.frames-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flexible-denture-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: 20px 0;
+  min-width: 159px;
+}
+.frame-parent55,
+.frames-container {
+  flex-direction: row;
+  max-width: 100%;
+}
+.frames-container {
+  flex: 1;
+  gap: 0 53px;
+  min-width: 325px;
+  text-align: center;
+  color: var(--color-darkslateblue);
+}
+.frame-parent55 {
+  width: 736px;
+  gap: 0 11px;
+  text-align: left;
+  color: var(--dark-medium);
+}
+.odontectomy1 {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.brace-ceramic {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.removable-denture2 {
+  width: 183px;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.teeth-whitening-veneers3 {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.brace-self {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.brace-retainers {
+  width: 222px;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.frame-input23 {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.retainers2 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.brace-retainers1 {
+  width: 119px;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.frame-input24 {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.teeth-whitening-veeners {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.brace-retainers2,
+.brace-self-ligating1,
+.denture-types {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.brace-retainers2 {
+  align-self: stretch;
+  background-color: var(--gray-white);
+  flex-direction: row;
+  gap: 0 10px;
+}
+.brace-self-ligating1,
+.denture-types {
+  flex-direction: column;
+}
+.brace-self-ligating1 {
+  align-self: stretch;
+  gap: 20px 0;
+}
+.denture-types {
+  width: 280px;
+  padding: var(--padding-12xs) var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+}
+.retainers3 {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.odontectomy2 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.retainers-parent {
+  align-self: stretch;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.frame-input25 {
+  margin: 0;
+  height: 21px;
+  width: 18px;
+}
+.gingivectomy1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.gum-surgeries {
+  align-self: stretch;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.self-ligating-retainers {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px 0;
+}
+.frame-parent54,
+.metal-brace,
+.self-ligating-retainers {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.metal-brace {
+  width: 160px;
+  flex-direction: column;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-parent54 {
+  flex-direction: row;
+  gap: 0 44px;
+  max-width: 100%;
+}
+.blank-line263,
+.services-list4 {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.blank-line264 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.i-am-a-container12 {
+  height: 30px;
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+}
+.paragraph19 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  width: 192px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-child38 {
+  height: 170px;
+  width: 1111px;
+  position: relative;
+  border: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.oral-prophylaxis-children {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: var(--br-7xs);
+  min-height: 25px;
+}
+.oral-prophylaxis5 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+  text-align: center;
+}
+.oral-prophylaxis-tooth-extract2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gray-white);
+  width: 191px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.oral-prophylaxis-tooth-extract2:hover,
+.oral-prophylaxis-tooth-extract3:hover {
+  background-color: var(--color-gainsboro-100);
+}
+.oral-prophylaxis-tooth-extract-child {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: var(--br-7xs);
+  min-height: 25px;
+}
+.tooth-extraction6 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+  text-align: center;
+}
+.oral-prophylaxis-tooth-extract3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gray-white);
+  width: 193px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.oral-prophylaxis-tooth-extract-item {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: var(--br-7xs);
+  min-height: 25px;
+}
+.complete-denture5 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.oral-prophylaxis-tooth-extract4 {
+  align-self: stretch;
+  background-color: var(--gray-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.frame-wrapper6,
+.oral-prophylaxis-tooth-extract-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.oral-prophylaxis-tooth-extract-parent {
+  align-self: stretch;
+  gap: 20px 0;
+}
+.frame-wrapper6 {
+  width: 210px;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+}
+.dental-procedures-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: none;
+  z-index: 1;
+}
+.dental-procedures-item {
+  position: absolute;
+  top: 7px;
+  left: 1px;
+  background-color: var(--color-darkslateblue);
+  width: 8px;
+  height: 77px;
+  z-index: 2;
+}
+.dental-procedures {
+  height: 93px;
+  width: 10px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.label-field,
+.rectangle-parent22 {
+  position: absolute;
+  top: 0;
+  box-sizing: border-box;
+}
+.rectangle-parent22 {
+  left: 225px;
+  border: 1px solid var(--color-darkslateblue);
+  width: 1111px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-12xs) var(--padding-11xs) var(--padding-21xl)
+    var(--padding-lgi);
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: center;
+  color: var(--color-darkslateblue);
+}
+.label-field {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  right: -1px;
+  bottom: -1px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-lightsteelblue);
+}
+.juan12 {
+  align-self: stretch;
+  width: 0;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  font-weight: 300;
+  z-index: 1;
+}
+.rectangle-input,
+.text-field31 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.text-field31 {
+  top: 188px;
+  left: 148px;
+  width: 450px;
+  height: 41px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-2xl) var(--padding-5xs);
+  max-width: 100%;
+  color: var(--color-darkslategray-100);
+}
+.rectangle-input {
+  width: 100%;
+  border: 1px solid var(--color-lightsteelblue);
+  outline: 0;
+  background-color: var(--gray-white);
+  height: 100%;
+  margin: 0 !important;
+  top: 0;
+  right: -1px;
+  bottom: -1px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.juan13 {
+  align-self: stretch;
+  width: 0;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  font-weight: 300;
+  z-index: 1;
+}
+.text-field32 {
+  position: absolute;
+  top: 188px;
+  left: 808px;
+  width: 526px;
+  height: 41px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) 24.600000000000364px var(--padding-5xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  color: var(--color-darkslategray-100);
+}
+.p25,
+.price,
+.total-cost {
+  margin-block-start: 0;
+  margin-block-end: 32px;
+}
+.blank-line265 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.i-am-a-container13 {
+  height: 89px;
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+}
+.paragraph20 {
+  position: absolute;
+  top: 193px;
+  left: 0;
+  width: 148px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.blank-line266,
+.p26 {
+  margin-block-start: 0;
+  margin-block-end: 32px;
+}
+.blank-line267 {
+  margin: 0;
+  font-size: var(--small-size-body-regular-size);
+}
+.frame-group2 {
+  position: absolute;
+  top: 148px;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+  width: 126.6px;
+  height: 89px;
+  z-index: 3;
+}
+.text-field-rectangle-j-u-a-n {
+  height: 282px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.input-fields-pair {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.label40 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--dark-medium);
+  text-align: left;
+}
+.interfacecopy-icon7,
+.interfaceinfo-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.button84,
+.iconcontainer7 {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.iconcontainer7 {
+  display: none;
+  align-items: center;
+  gap: 0 8px;
+}
+.button84 {
+  cursor: pointer;
+  border: 1px solid var(--dark-medium);
+  padding: var(--padding-3xs) var(--padding-29xl);
+  background-color: var(--gray-white);
+  border-radius: var(--br-5xs);
+  display: flex;
+  align-items: flex-start;
+  gap: 0 10px;
+  z-index: 8;
+}
+.label50 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--grey-light);
+  text-align: left;
+}
+.interfacecopy-icon8,
+.interfaceinfo-icon8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.iconcontainer8 {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.button-labels,
+.button85,
+.text-input-fields-juan-contain {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button85 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-44xl-5);
+  background-color: var(--color-cornflowerblue-300);
+  border-radius: var(--br-5xs);
+  gap: 0 10px;
+}
+.button-labels,
+.text-input-fields-juan-contain {
+  gap: 0 20px;
+  max-width: 100%;
+}
+.text-input-fields-juan-contain {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 23px 0;
+  text-align: left;
+  color: var(--dark-medium);
+}
+.dentistry-types {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 44px 0;
+  text-align: center;
+  color: var(--color-darkslateblue);
+}
+.dentistry-types,
+.label-group,
+.paragraph16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.paragraph16 {
+  flex: 1;
+  flex-direction: column;
+  gap: 47px 0;
+}
+.label-group {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-8xl);
+  box-sizing: border-box;
+  color: var(--dark-medium);
+}
+.juan-parent,
+.label-group,
+.staff-account-billing-6 {
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+}
+.juan-parent {
+  position: absolute;
+  top: 184px;
+  left: 387px;
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-white);
+  box-shadow: var(--shadow-small);
+  border: 1px solid var(--stroke-light);
+  box-sizing: border-box;
+  width: 1402px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-18xl);
+  gap: 19px 0;
+  max-width: 100%;
+  z-index: 7;
+  color: var(--color-darkslategray-100);
+}
+.staff-account-billing-6 {
+  width: 100%;
+  height: 1080px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+  letter-spacing: normal;
+  color: var(--color-darkslategray-200);
+}
+@media screen and (max-width: 1275px) {
+  .paragraph10 {
+    gap: 0 371px;
+  }
+  .frame-parent54,
+  .removable-denture {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .oral-prophylaxis-tooth-extract1 {
+    min-width: 100%;
+  }
+  .staff-account-billing-6 {
+    height: auto;
+    min-height: 1080;
+  }
+}
+@media screen and (max-width: 750px) {
+  .paragraph10 {
+    gap: 0 186px;
+  }
+  .time-000000-am10 {
+    font-size: var(--font-size-7xl);
+  }
+  .brace {
+    flex-wrap: wrap;
+  }
+  .tooth-extraction-frame {
+    align-self: stretch;
+    width: auto;
+  }
+  .frame-parent55 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .appointment10,
+  .billing2,
+  .dashboard10,
+  .logout10,
+  .onsite-form10,
+  .patient-management10,
+  .staff-billing1 {
+    font-size: var(--font-size-base);
+  }
+  .paragraph10 {
+    gap: 0 93px;
+  }
+  .queued-list1,
+  .time-000000-am10,
+  .total-price1 {
+    font-size: var(--font-size-lgi);
+  }
+  .php-00001 {
+    font-size: var(--font-size-base);
+    line-height: 19px;
+  }
+  .button-schedule-appointment,
+  .frame-dentures,
+  .frame-flexible-denture,
+  .frame-oral-prophylaxis,
+  .frame-teeth-whitening,
+  .group-root-canals,
+  .php-0,
+  .php-100,
+  .php-1001,
+  .sample153,
+  .sample154,
+  .sample155,
+  .sample156,
+  .sample157,
+  .sample158,
+  .sample159,
+  .sample160,
+  .sample161,
+  .sample162,
+  .sample163,
+  .sample164,
+  .sample165,
+  .sample166,
+  .sample167,
+  .sample168,
+  .sample169,
+  .sample170,
+  .sample171,
+  .sample172,
+  .sample173,
+  .sample174,
+  .sample175,
+  .sample176,
+  .sample177,
+  .sample178,
+  .sample179,
+  .sample180,
+  .sample181,
+  .sample182,
+  .sample183,
+  .sample184,
+  .sample185,
+  .sample186,
+  .sample187,
+  .sample188,
+  .sample189,
+  .sample190,
+  .sample191,
+  .sample192,
+  .sample193,
+  .sample194,
+  .text21 {
+    font-size: var(--font-size-base);
+    line-height: 21px;
+  }
+  .php-0,
+  .php-100,
+  .php-1001 {
+    line-height: 19px;
+  }
+  .text-field24 {
+    flex-wrap: wrap;
+    padding-right: var(--padding-4xs);
+    box-sizing: border-box;
+  }
+  .juan-dela-cruz26,
+  .php-00002,
+  .xxxxxxxxxxxxxxxxxxx {
+    font-size: var(--font-size-base);
+    line-height: 19px;
+  }
+  .down-payment,
+  .full-payment,
+  .label181,
+  .label281,
+  .label381,
+  .label481,
+  .label579 {
+    font-size: var(--font-size-lg);
+    line-height: 28px;
+  }
+  .header7 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .teeth-whitening-veneers2 {
+    height: auto;
+  }
+  .i-am-a,
+  .juan10,
+  .juan11,
+  .juan8,
+  .juan9 {
+    font-size: var(--font-size-base);
+    line-height: 19px;
+  }
+  .retainers1 {
+    min-width: 100%;
+  }
+  .complete-denture4,
+  .oral-prophylaxis4,
+  .tooth-extraction5,
+  .tooth-restoration {
+    font-size: var(--font-size-base);
+  }
+  .oral-prophylaxis-frame {
+    flex: 1;
+  }
+  .brace-metal,
+  .fixed-bridge3,
+  .flexible-denture1,
+  .removable-denture1 {
+    font-size: var(--font-size-base);
+  }
+  .frames-container {
+    flex-wrap: wrap;
+  }
+  .brace-ceramic,
+  .brace-self,
+  .gingivectomy1,
+  .odontectomy2,
+  .retainers2,
+  .teeth-whitening-veeners {
+    font-size: var(--font-size-base);
+  }
+  .juan12,
+  .juan13 {
+    line-height: 19px;
+  }
+  .juan12,
+  .juan13,
+  .label40,
+  .label50 {
+    font-size: var(--font-size-base);
+  }
+  .button-labels {
+    flex-wrap: wrap;
+  }
+}

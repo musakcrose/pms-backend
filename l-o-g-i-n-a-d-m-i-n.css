@@ -1,0 +1,513 @@
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--gray-white);
+  box-shadow: 0 1px 10px 2px #000;
+  width: 100%;
+  height: 100%;
+}
+.image-3-icon1 {
+  position: absolute;
+  height: calc(100% - 22.4px);
+  top: 13px;
+  bottom: 9.4px;
+  left: 16px;
+  max-height: 100%;
+  width: 119px;
+  object-fit: contain;
+  z-index: 1;
+}
+.rectangle-container {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 1947px;
+}
+.dental-clinic1,
+.sweet-tooth1 {
+  position: absolute;
+  left: 146.6px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.sweet-tooth1 {
+  top: 44.9px;
+  font-family: var(--font-vujahday-script);
+}
+.dental-clinic1 {
+  top: 67.7px;
+  font-size: var(--font-size-base-4);
+}
+.your-smile-is1 {
+  position: relative;
+  font-weight: 300;
+  white-space: nowrap;
+  z-index: 1;
+}
+.your-smile-concern-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 1.7999999999999543px;
+}
+.line-div {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 0.5px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  z-index: 1;
+  margin-top: -0.5px;
+}
+.your-smile-concern-frame-parent {
+  position: absolute;
+  top: 88.7px;
+  left: 143px;
+  width: 130.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-3xs);
+}
+.admin-frame {
+  align-self: stretch;
+  height: 145px;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-6xl-1);
+  color: var(--color-steelblue-200);
+  font-family: var(--drop-menu-menu);
+}
+.frame-child1 {
+  width: 1036px;
+  height: 735px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lavender-100);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-cornflowerblue-300);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.logo-child,
+.logo-item {
+  position: absolute;
+  margin: 0 !important;
+  border-radius: 50%;
+}
+.logo-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 366.5px;
+  bottom: 0;
+  left: -366px;
+  background-color: var(--color-steelblue-200);
+}
+.logo-item {
+  height: 190px;
+  width: calc(100% - 4.5px);
+  top: calc(50% - 95px);
+  right: 368.5px;
+  left: -364px;
+  background-color: var(--gray-white);
+  z-index: 1;
+}
+.image-3-icon2 {
+  height: 77px;
+  width: 75px;
+  position: relative;
+  object-fit: cover;
+}
+.image-3-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xl) 0 27.90000000000001px;
+}
+.sweet-tooth2 {
+  position: relative;
+  font-size: var(--font-size-6xl-1);
+  font-family: var(--font-vujahday-script);
+  color: var(--color-steelblue-200);
+  text-align: left;
+  white-space: nowrap;
+}
+.login-form {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) 0 3.5999999999999943px;
+}
+.dental-clinic2 {
+  position: relative;
+  font-size: var(--font-size-base-4);
+  font-family: var(--drop-menu-menu);
+  color: var(--color-steelblue-200);
+  text-align: left;
+}
+.dental-clinic-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) 0 3.5999999999999943px;
+}
+.your-smile-is2 {
+  position: relative;
+  font-size: var(--font-size-3xs);
+  font-weight: 300;
+  font-family: var(--drop-menu-menu);
+  color: var(--color-steelblue-200);
+  text-align: left;
+}
+.your-smile-is-our-concern-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 1.8000000000000114px;
+}
+.dental-clinic-frame-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 0.5px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  margin-top: -0.4px;
+}
+.dental-clinic-frame,
+.empty-frame {
+  display: flex;
+  align-items: flex-start;
+}
+.dental-clinic-frame {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: -4px;
+}
+.empty-frame {
+  margin-top: -11.2px;
+}
+.empty-frame,
+.login-form-parent {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.combine,
+.login-form-parent,
+.logo,
+.logo-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.combine {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 1.4210854715202004e-14px;
+  z-index: 2;
+}
+.logo,
+.logo-wrapper {
+  flex-direction: row;
+}
+.logo {
+  width: 194.5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  justify-content: flex-start;
+  padding: var(--padding-6xl) 32px 33.19999999999999px;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 1;
+}
+.logo-wrapper {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 0 var(--padding-smi);
+}
+.login {
+  height: 51px;
+  width: 153px;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  font-family: var(--drop-menu-menu);
+  color: var(--color-darkslateblue);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.login-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.frame-child2 {
+  height: 79px;
+  width: 925px;
+  position: relative;
+  background-color: var(--gray-white);
+  border: 2px solid var(--color-midnightblue);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.enter-your-username {
+  width: 331px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-weight: 300;
+  font-family: var(--drop-menu-menu);
+  font-size: var(--font-size-13xl);
+  background-color: var(--pms-color);
+  height: 48px;
+  position: relative;
+  font-style: italic;
+  color: var(--color-gray-300);
+  text-align: left;
+  max-width: 100%;
+  padding: 0;
+  z-index: 1;
+}
+.group-div {
+  align-self: stretch;
+  background-color: var(--gray-white);
+  border: 2px solid var(--color-midnightblue);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-7xl) var(--padding-base);
+  z-index: 1;
+}
+.frame-child3,
+.frame-group,
+.group-div {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-smi);
+  gap: 35px 0;
+}
+.frame-child3 {
+  height: 79px;
+  width: 925px;
+  position: relative;
+  background-color: var(--gray-white);
+  border: 2px solid var(--color-midnightblue);
+  display: none;
+}
+.enter-your-password {
+  width: 324px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-weight: 300;
+  font-family: var(--drop-menu-menu);
+  font-size: var(--font-size-13xl);
+  background-color: var(--pms-color);
+  height: 48px;
+  position: relative;
+  font-style: italic;
+  color: var(--color-gray-300);
+  text-align: left;
+  max-width: 100%;
+  padding: 0;
+  z-index: 1;
+}
+.mdishow-icon {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 50px;
+  z-index: 1;
+}
+.enter-pass-text,
+.rectangle-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent1 {
+  flex: 1;
+  background-color: var(--gray-white);
+  border: 2px solid var(--color-midnightblue);
+  justify-content: space-between;
+  padding: var(--padding-mini) var(--padding-2xs) var(--padding-sm)
+    var(--padding-5xl);
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.enter-pass-text {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-smi);
+}
+.login1 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--drop-menu-menu);
+  color: var(--gray-white);
+  text-align: left;
+}
+.forgot-text,
+.forgot-text-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.forgot-text {
+  cursor: pointer;
+  border: 1px solid var(--color-midnightblue);
+  padding: var(--padding-sm) var(--padding-xl) var(--padding-mini);
+  background-color: var(--color-steelblue-200);
+  width: 250px;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.forgot-text:hover {
+  background-color: #2b96db;
+  border: 1px solid #36c;
+  box-sizing: border-box;
+}
+.forgot-text-wrapper {
+  align-self: stretch;
+}
+.forgot-password {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 300;
+  font-family: var(--drop-menu-menu);
+  color: var(--color-darkslateblue);
+  text-align: left;
+  z-index: 1;
+}
+.forgot-password-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-form {
+  margin: 0;
+  width: 1036px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lavender-100);
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-cornflowerblue-300);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xl) 43px var(--padding-mid) 62px;
+  gap: 22px 0;
+  max-width: 100%;
+}
+.frame-form,
+.login-admin,
+.login-admin-inner {
+  display: flex;
+  box-sizing: border-box;
+}
+.login-admin-inner {
+  width: 1846px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  max-width: 100%;
+}
+.login-admin {
+  width: 100%;
+  position: relative;
+  background-color: var(--gray-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 53px;
+  gap: 147px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1025px) {
+  .frame-form {
+    padding-left: 31px;
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 975px) {
+  .login {
+    font-size: var(--font-size-19xl);
+  }
+  .enter-your-password,
+  .enter-your-username,
+  .forgot-password,
+  .login1 {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-form {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .login-admin {
+    gap: 73px 0;
+  }
+}
+@media screen and (max-width: 725px) {
+  .rectangle-parent1 {
+    flex-wrap: wrap;
+  }
+  .login-admin {
+    gap: 37px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sweet-tooth2 {
+    font-size: var(--font-size-xl);
+  }
+  .login {
+    font-size: var(--font-size-10xl);
+  }
+  .enter-your-username {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-group {
+    gap: 17px 0;
+  }
+  .enter-your-password,
+  .forgot-password,
+  .login1 {
+    font-size: var(--font-size-lgi);
+  }
+}
